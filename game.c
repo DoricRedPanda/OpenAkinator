@@ -177,7 +177,7 @@ void printOdds(double *odds, int n)
 
 int
 guessChr(Character *chr, Question *qst,
-         int n_qst, int chr_id, char *ans, double *odds, int n_chr)
+         int n_qst, int chr_id, char *ans, double *odds)
 {
 	puts(chr[chr_id].text);
 	if (askConfirmation("Am I right?")) {
