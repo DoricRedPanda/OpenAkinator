@@ -1,16 +1,16 @@
 15
 All Yes
-13
+14
 All No
-12
+13
 You
 4
 Hatsune Miku
-7
-Rick Astley
 8
+Rick Astley
+10
 Tom Lehrer
-5
+7
 Joseph Joestar
 10
 Karl Theodor Wilhelm Weierstrass
@@ -24,8 +24,8 @@ Andrey Victorovich Stolyarov
 Eduard Khil
 5
 Ada Lovelace
-2
+4
 Eric Rosen
-2
+3
 Hikaru Nakamura
-1
+2
