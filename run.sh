@@ -1,1 +1,1 @@
-./open-akinator characters.txt questions.txt
+./open-akinator res/persons.txt res/questions.txt

@@ -1,0 +1,5 @@
+There are some ideas for improvement ranged by importence/difficulty:
+1) Use logarithms to save multiplications. Hence, improve performance.
+2) Lock files to run multiple instances of the program simultaniously.
+3) Improve database. Maybe something like sqllite?
+4) Add GUI, maybe multiple variants.

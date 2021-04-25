@@ -1,25 +1,31 @@
-12
+15
 All Yes
-11
+13
 All No
-10
+12
 You
 4
 Hatsune Miku
-6
+7
 Rick Astley
-6
+8
 Tom Lehrer
-4
+5
 Joseph Joestar
-6
+10
 Karl Theodor Wilhelm Weierstrass
-4
+5
 Carl Gauss
-1
+2
 Gentoo user
 2
 Andrey Victorovich Stolyarov
-4
+6
 Eduard Khil
-3
+5
+Ada Lovelace
+2
+Eric Rosen
+2
+Hikaru Nakamura
+1
