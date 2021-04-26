@@ -145,10 +145,9 @@ getEntropy(double *odds, double *likelyhood, size_t n)
 {
 	double entropy = 0.0, tmp;
 	for (size_t i = 0; i < n; i++) {
-		if (!odds[i])
-			continue;
 		tmp = odds[i] * likelyhood[i];
-		entropy += tmp * log2(tmp);
+		if (tmp > 0)
+			entropy += tmp * log2(tmp);
 	}
 	return -entropy;
 }
